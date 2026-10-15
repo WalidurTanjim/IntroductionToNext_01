@@ -13,6 +13,7 @@ const Navbar = () => {
         <li><Link href={`/albums`}>Albums</Link></li>
         <li><Link href={`/todos`}>Todos</Link></li>
         <li><Link href={`/comments`}>Comments</Link></li>
+        <li><Link href={`/s_posts`}>S_Posts</Link></li>
         <li><Link href={`/c_posts`}>C_Posts</Link></li>
     </>;
 
