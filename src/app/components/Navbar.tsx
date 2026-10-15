@@ -11,6 +11,7 @@ const Navbar = () => {
         <li><Link href={`/posts`}>Posts</Link></li>
         <li><Link href={`/users`}>Users</Link></li>
         <li><Link href={`/albums`}>Albums</Link></li>
+        <li><Link href={`/todos`}>Todos</Link></li>
     </>;
 
     return (

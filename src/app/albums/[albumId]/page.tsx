@@ -40,7 +40,6 @@ const DynamicAlbumDetails = async({ params }: { params: Promise<{ albumId: strin
 
 // DynamicAlbumPage (main component)
 const DynamicAlbumPage = async({ params }: AlbumIdParams) => {
-    // const { albumId } = await params;
 
     return (
         <div className={`p-5`}>
